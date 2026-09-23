@@ -1,6 +1,13 @@
 <h1><p align="center">👋 Hey, I’m Chamith</p></h1>
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Softwere+Engineering+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		
+  <h3 align="center">
+  💻 Software Engineering Student | 🚀 Software Developer | 🌐 Web Development Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Software+Developer;Web+Development+Enthusiast;Always+Learning+New+Things+%F0%9F%9A%80" />
+</p>
 	</a>
 
 💻 Software Engineering Student | Developer | Tech Enthusiast
