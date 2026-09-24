@@ -74,13 +74,15 @@ Improving      ███████████████████░░  
 🌐 Let’s Connect
 
 <p align="center">
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/https://github.com/Chamith-roshitha/Chamith-roshitha.git">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="www.linkedin.com/in/chamith-roshitha">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+	
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/chamith-roshitha/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
