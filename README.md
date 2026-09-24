@@ -2,15 +2,15 @@
 	<a href="https://github.com/Bouaskaoun">
 		
   <h3 align="center">
-  💻 Software Engineering Student | 🚀 Software Developer | 🌐 Web Development Enthusiast
+  💻 Software Engineering Undergraduate | 🚀 Software Developer | 🌐 Web Development Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Software+Developer;Web+Development+Enthusiast;Always+Learning+New+Things+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+undergraduate;Software+Developer;Web+Development+Enthusiast;Always+Learning+New+Things+%F0%9F%9A%80" />
 </p>
 	</a>
 
-💻 Software Engineering Student | Developer | Tech Enthusiast
+💻 Software Engineering Undergraduate | Developer | Tech Enthusiast
 
 I’m a Software Engineering student passionate about building modern, useful, and creative software solutions.
 I enjoy learning new technologies, solving problems, and turning ideas into real projects. 🚀
@@ -77,7 +77,7 @@ Improving      ███████████████████░░  
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="#">
+  <a href="www.linkedin.com/in/chamith-roshitha">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
